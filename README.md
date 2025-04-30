@@ -27,6 +27,6 @@ This project uses publicly available data from:
 - Armed Conflict Location & Event Data Project (ACLED)
 - United Nations (OCHA, IOM) reports
 - Satellite imagery and geospatial services (e.g., Copernicus, Sentinel)
-- GDELT and social media feeds for sentiment and discourse analysis
+- GDELT and social media feeds for sentiment and discourse analysis (yet to incorporate)
 
 ---
