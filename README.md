@@ -4,7 +4,7 @@ This repository houses the datasets, analytical tools, and findings from an ongo
 
 ---
 
-## 📌 Overview
+## Overview
 
 The Red Sea region is experiencing a complex and evolving crisis involving maritime security threats, political instability, and humanitarian concerns. This project aims to:
 
