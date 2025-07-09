@@ -26,7 +26,7 @@ This project uses publicly available data from:
 - Automatic Identification System (AIS) vessel tracking
 - Armed Conflict Location & Event Data Project (ACLED)
 - United Nations (OCHA, IOM) reports
-- Satellite imagery and geospatial services (e.g., Copernicus, Sentinel)
+- Satellite imagery and geospatial services (e.g., Copernicus, Sentinel) (TBD)
 - GDELT and social media feeds for sentiment and discourse analysis (yet to incorporate)
 
 ---
