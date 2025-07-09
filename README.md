@@ -11,7 +11,7 @@ The Red Sea region is experiencing a complex and evolving crisis involving marit
 - Analyze maritime disruptions and military activity, especially around the Bab el-Mandeb Strait.
 - Track the economic impact on global shipping and trade flows.
 - Map conflict incidents and actor networks influencing regional dynamics.
-- Creating a machine learning model to forecast the future implications fothe contemporary scenario.
+- Creating a machine learning model to forecast the future implications of the contemporary scenario.
 
 ---
 
